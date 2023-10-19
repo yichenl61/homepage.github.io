@@ -15,12 +15,11 @@ title-block-banner: false
 
 My name is Yichen Liu. I'm currently a Master student in Data Science at Georgetown University. I hold a Bachelor of Science degree in Computer Engineering from Virginia Tech, where he focused in Control Robotics & Autonomy and Networking & Cybersecurity.
 
+
 ------------------------------------------------------------------------
 
 ## Publication
 
-1.  Yuying Yang; Yuxuan Huang; Yichen Liu; Bin Liu, Grey Clustering Analysis of Provincial Scientific and Technological Innovation Capability in Chinese Mainland, Journal of Grey System. 2023, Vol. 35 Issue 2, p130-148. 19p.
+1.  [Yuying Yang; Yuxuan Huang; Yichen Liu; Bin Liu, Grey Clustering Analysis of Provincial Scientific and Technological Innovation Capability in Chinese Mainland, Journal of Grey System. 2023, Vol. 35 Issue 2, p130-148. 19p.](https://eds.s.ebscohost.com/abstract?site=eds&scope=site&jrnl=09573720&AN=167448232&h=OH%2bAdWw4scZxndRg1CmWradtUWqDcRj7FxrvP%2bZipqyhMclnRGuUGSF9ramqIlP8QHlX9Bx2p%2fXir3zZhOl89w%3d%3d&crl=f&resultLocal=ErrCrlNoResults&resultNs=Ehost&crlhashurl=login.aspx%3fdirect%3dtrue%26profile%3dehost%26scope%3dsite%26authtype%3dcrawler%26jrnl%3d09573720%26AN%3d167448232)
 
-2.  Jiaming Zhang, Yichen Liu, Jiaqi Jiao, Bin Liu. Forecasting intermittent product demand with GA-GNN method for a distribution center, Under reviewing in IEEE Transactions on Network and Service Management.
-
-
+2.  Jiaming Zhang, Yichen Liu, Jiaqi Jiao, Bin Liu. Forecasting intermittent product demand with GA-GNN method for a distribution center, Under reviewing in IEEE Transactions on Network and Service Management.
